@@ -1,6 +1,7 @@
 # 👻 Pac-Man Ghost AI (Python + Pygame)
 
 A Python-based Pac-Man clone featuring intelligent ghost behaviors using A*, BFS, and Minimax (with Alpha-Beta pruning). Each ghost simulates a distinct chasing strategy, replicating classic arcade mechanics and enhanced with modern AI pathfinding techniques.
+![Screenshot 2025-04-26 033356](https://github.com/user-attachments/assets/15d07296-8af8-42a2-bb27-359fd6238445)
 
 ---
 
